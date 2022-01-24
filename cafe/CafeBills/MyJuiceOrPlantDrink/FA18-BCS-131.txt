@@ -1,0 +1,7 @@
+
+Date: Mon Jan 03 15:03:28 PKT 2022
+You've ordered a Mango Flavour
+Quantity: 4
+You've returned a Mango Flavour
+Quantity: 4
+Total Amount: 50

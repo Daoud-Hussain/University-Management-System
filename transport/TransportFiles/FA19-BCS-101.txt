@@ -1,0 +1,9 @@
+Registration No                  : FA19-BCS-101
+Bus ID                           : 1595
+Route                            : 1
+Stop Name                        : Golra more
+Fee                              : 20000
+PickUp Timing                    : 8 AM
+DropOff Timing                   : 5:30 PM
+Registered at                    : 03-01-2022 || 1:38 PM
+

@@ -1,0 +1,5 @@
+BIO310,Intro to Bioinformatics,4 (3 1),Dr. Muhammad Sajjad
+MGT131,Financial Accounting,3 (3 0),Dr. Naveed Raza
+HUM434,Chinese,3 (3 0),Mr. Yasir Muhammad
+CSC499,SDP-II,4 (0 4),Dr. Sohail Asghar
+MTH242,Differential Equations,3 (3 0),Mr. Saad Raza

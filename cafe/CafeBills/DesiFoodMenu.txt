@@ -1,0 +1,10 @@
+1.Haleem(80 Rs)
+2.Rogan Gosht(250Rs)
+3.Matar Paneer(120)
+4.Aloo Ka Paratha(350)
+5.Spicy Sweet Potatoes(70)
+6.Chole Palak(50)
+7.Mash ki Dal
+8.Biryani
+9.Chicken Quorma
+10.Samosa

@@ -1,0 +1,6 @@
+1.Coca-Cola(60 Rs)
+2.Pepsi(60Rs)
+3.Fanta(60)
+4.Dew(60)
+5.String(60)
+6.Sprite(60)

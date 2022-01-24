@@ -1,0 +1,9 @@
+Registration No                  : SP18-BCS-123
+Bus ID                           : 1095
+Route                            : 7
+Stop Name                        : khanna pull
+Fee                              : 24000
+PickUp Timing                    : 8 AM
+DropOff Timing                   : 2:30 PM
+Registered at                    : 03-01-2022 || 4:3 PM
+

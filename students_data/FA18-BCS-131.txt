@@ -1,0 +1,11 @@
+name:QASIM ALI
+password:!@#$%^&*()
+regNumber:FA18-BCS-131
+degree:BSCS
+gender:MALE
+dateOfBirth:19-02-2002
+gmail:qa@gmail.com
+studentCnic:37201-5793025-3
+contactNumber:0331-8180176
+fatherName:GHULAM SHABIR
+fatherCnic:37201-5793025-5

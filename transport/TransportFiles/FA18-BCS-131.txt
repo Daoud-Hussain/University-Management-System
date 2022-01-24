@@ -1,0 +1,9 @@
+Registration No                  : FA18-BCS-131
+Bus ID                           : 1868
+Route                            : 8
+Stop Name                        : Sowan Garden
+Fee                              : 21000
+PickUp Timing                    : 8 AM
+DropOff Timing                   : 1:30 PM
+Registered at                    : 03-01-2022 || 10:50 AM
+

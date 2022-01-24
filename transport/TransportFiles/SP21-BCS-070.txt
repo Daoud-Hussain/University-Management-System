@@ -1,0 +1,9 @@
+Registration No                  : SP21-BCS-070
+Bus ID                           : 1885
+Route                            : 3
+Stop Name                        : Qasim market
+Fee                              : 14000
+PickUp Timing                    : 10 AM
+DropOff Timing                   : 5:30 PM
+Registered at                    : 03-01-2022 || 1:35 PM
+

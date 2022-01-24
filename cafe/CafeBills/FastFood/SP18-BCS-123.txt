@@ -1,0 +1,19 @@
+
+Date: Mon Jan 03 15:48:47 PKT 2022
+You've ordered a Deal C
+Quantity: 1
+You've ordered a Deal C
+Quantity: 1
+You've returned a Deal C
+Quantity: 1
+You've ordered a Deal C
+Quantity: 1
+You've ordered a Deal C
+Quantity: 1
+You've returned a Deal C
+Quantity: 1
+You've ordered a Deal C
+Quantity: 10
+You've returned a Deal C
+Quantity: 9
+Total Amount: 3150

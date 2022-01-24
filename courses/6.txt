@@ -1,0 +1,5 @@
+CSC478,Numerical Computing,3 (3 0),Mr. Tanveer Ahmed 
+CSC312,Theory of Automata,3 (3 0),Mr. Muhammad Mustafa
+CSC303,Mobile App Dev,3 (2 1),Mr. Zaheer ul Hassan 
+CSC354,Machine Learning,3 (3 0),Dr. Usman Yasin 
+CSC350,Web Technologies,3 (3 0),Mr. Rashid Mukhtar

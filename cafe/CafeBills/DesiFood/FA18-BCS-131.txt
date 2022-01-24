@@ -1,0 +1,14 @@
+
+Date: Mon Jan 03 11:09:46 PKT 2022
+You've ordered a Haleem
+Quantity: 3
+You've returned a Haleem
+Quantity: 1
+Total Amount: 240
+
+Date: Mon Jan 03 15:03:04 PKT 2022
+You've ordered a Haleem
+Quantity: 3
+You've returned a Haleem
+Quantity: 2
+Total Amount: 120

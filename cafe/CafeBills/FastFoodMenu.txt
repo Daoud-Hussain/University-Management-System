@@ -1,0 +1,13 @@
+1.Burger(80 Rs)
+2.Zinger Burger(250Rs)
+3.Shawarma(120)
+4.Pizza(350)
+5.Sandwich(70)
+6.Fries(50)
+7.Deal A
+(Small Pizza, Zinger sharwarma,1 litre Pepsi)
+8.Deal B
+(Medium Pizza, 2 Zinger Burger, 1 litre Pepsi)
+9.Deal C
+(Large Pizza, 2 Zinger Burger, 1 Chicken Shawarma, 1 litre Pepsi)
+0.Nothing

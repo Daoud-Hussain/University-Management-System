@@ -1,0 +1,12 @@
+
+Date: Mon Jan 03 12:35:54 PKT 2022
+You've ordered a Deal A
+Quantity: 2
+Total Amount: 1100
+
+Date: Mon Jan 03 12:35:54 PKT 2022
+You've ordered a Pizza
+Quantity: 3
+You've returned a Pizza
+Quantity: 1
+Total Amount: 1800

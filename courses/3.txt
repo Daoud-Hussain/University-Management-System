@@ -1,0 +1,5 @@
+HUM103,Communication Skills,3 (3 0),Dr. Mahmood ul Hassan
+BIO231,Genetics,4 (3 1),Dr. Kafayat Ullah
+MTH105,Multivariable Calculus,3 (3 0),Dr. Bilal Ashraf
+CSC211,DSA,4 (3 1),Dr. Inayat ur Rehman
+CSC241,OOP,4 (3 1),Dr. Zobia Rehman

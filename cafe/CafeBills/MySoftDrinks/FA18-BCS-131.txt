@@ -1,0 +1,5 @@
+
+Date: Mon Jan 03 11:10:06 PKT 2022
+You've ordered a Fanta
+Quantity: 1
+Total Amount: 60

@@ -1,0 +1,5 @@
+1.Mango Flavour(50 Rs)
+2.Orange Flavour(40Rs)
+3.Pinnapple Flaour(70)
+4.Grape Flavour(50)
+5.Mineral Water(30)

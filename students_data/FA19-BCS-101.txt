@@ -1,0 +1,11 @@
+name:SAMEEM
+password:!@#$%^&*()
+regNumber:FA19-BCS-101
+degree:BSCS
+gender:MALE
+dateOfBirth:22-02-2002
+gmail:sameem@gmail.com
+studentCnic:38401-0000000-5
+contactNumber:0300-0000000
+fatherName:AMJAD
+fatherCnic:38401-0000000-2

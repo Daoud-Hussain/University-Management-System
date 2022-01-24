@@ -1,0 +1,74 @@
+Date: Mon Jan 03 11:09:14 PKT 2022
+-----------------------------------
+Name : QASIM ALI
+Student ID : FA18-BCS-131
+-----------------------------------
+---------Thanks For Coming---------
+-----------Your Bill Is------------
+			Items            Quantity   Prices
+Deal C                 1    1050
+Haleem                 2    240
+Total Bill                 1290
+-----------------------------------
+-----------------------------------
+
+
+Date: Mon Jan 03 11:09:14 PKT 2022
+-----------------------------------
+Name : QASIM ALI
+Student ID : FA18-BCS-131
+-----------------------------------
+---------Thanks For Coming---------
+-----------Your Bill Is------------
+			Items            Quantity   Prices
+Deal C                 1    1050
+Haleem                 2    240
+Fanta                  1    60
+Total Bill                 1350
+-----------------------------------
+-----------------------------------
+
+
+Date: Mon Jan 03 11:09:14 PKT 2022
+-----------------------------------
+Name : QASIM ALI
+Student ID : FA18-BCS-131
+-----------------------------------
+---------Thanks For Coming---------
+-----------Your Bill Is------------
+			Items            Quantity   Prices
+Total Bill                 1350
+-----------------------------------
+-----------------------------------
+
+
+Date: Mon Jan 03 15:03:03 PKT 2022
+-----------------------------------
+Name : QASIM ALI
+Student ID : FA18-BCS-131
+-----------------------------------
+---------Thanks For Coming---------
+-----------Your Bill Is------------
+			Items            Quantity   Prices
+Haleem                 1    120
+Mango Flavour          1    50
+Total Bill                 170
+-----------------------------------
+-----------------------------------
+
+
+Date: Mon Jan 03 15:03:03 PKT 2022
+-----------------------------------
+Name : QASIM ALI
+Student ID : FA18-BCS-131
+-----------------------------------
+---------Thanks For Coming---------
+-----------Your Bill Is------------
+			Items            Quantity   Prices
+Haleem                 1    120
+Mango Flavour          1    50
+Total Bill                 170
+-----------------------------------
+-----------------------------------
+
+

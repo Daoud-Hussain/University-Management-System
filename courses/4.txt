@@ -1,0 +1,5 @@
+MTH231,Linear Algebra,3 (3 0),Dr. Saima Noreen
+MTH206,Statistics & Probability,3 (3 0),Dr. Masood Anwar
+CSC322,Operating Systems ,3 (2 1),Ms. Zahida Walayat
+CSC371,Database Systems I,4 (3 1),Mr. Qasim Malik
+CSC291,Sotware Engineering,3 (3 0),Mr. Tehseen Riaz
