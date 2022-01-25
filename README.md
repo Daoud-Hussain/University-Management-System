@@ -1,7 +1,7 @@
 
 # University-Management-System
 
-UMS is a programming fundamental Project made using java procedural programming. It is a console-based universtiy management system which contain <b>four</b> modules given below that are integrated with each other: <br> <br> 
+UMS is a programming fundamental Project made using java procedural programming having both User and Admin sides. It is a console-based universtiy management system which contain <b>four</b> modules given below that are integrated with each other: <br> <br> 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/151001483-b7815531-2146-4e2b-9a7c-5a26cd1f9bc5.jpg" width="500" height="320" />
 
