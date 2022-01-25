@@ -1,12 +1,12 @@
 
 # University-Management-System
 
-UMS is a programming fundamental Project made using java procedural programming having both User and Admin sides. It is a console-based universtiy management system which contain <b>four</b> modules given below that are integrated with each other: <br> <br> 
+UMS is a group project made using java procedural programming having both User and Admin sides. It is a console-based universtiy management system which contain <b>four</b> modules given below that are integrated with each other: <br> <br> 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/87219816/151001483-b7815531-2146-4e2b-9a7c-5a26cd1f9bc5.jpg" width="500" height="320" />
 
 - 🙋‍♂️ Student Portal
-- ☕ Cafe Maangement System
+- ☕ Cafe Mangement System
 - 📚 Library management System
 - 🚌 Transport Management System <br>
 
@@ -17,10 +17,35 @@ UMS is a programming fundamental Project made using java procedural programming 
 system which uses file handling to 
 manipulate data and perform the CRUD operations. 
 
-<!--Typing Animation!-->
- <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color000&width=500&lines=Show+Some+Love+By+Giving+it+A+⭐.." >
 
 # 
+
+## 🙋‍♂️ Student Portal
+- Signup/Login.
+- Course Registeration.
+- Field Validation.
+- Student Records
+
+## ☕ Cafe Management System
+- Display Menu.
+- Buy items.
+- Return Items.
+- Bill Payments.
+- Menu offers.
+
+## 📚 Library management System
+- Search books.
+- Borrow books.
+- Return Books.
+- Late submission fines.
+
+## 🚌 Transport Management System
+- Bus Routes and fee.
+- Bus Registration.
+- User Profile.
+- Delete and update registration.
+
+#
 <!--Developers Account!-->
 ## 👨‍💻 Developers 
 
@@ -43,3 +68,5 @@ manipulate data and perform the CRUD operations.
  </div>
  
  #
+<!--Typing Animation!-->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color000&width=500&lines=Show+Some+Love+By+Giving+it+A+⭐.." >
