@@ -20,3 +20,17 @@ manipulate data and perform the CRUD operations.
 # 
 
 # 👨‍💻 Developers 
+<div align="center">
+<a href="https://github.com/m-qasim-ali">
+    <img src="https://img.shields.io/badge/Qasim_Ali-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Daoud-Hussain">
+    <img src="https://img.shields.io/badge/Daoud_Hussain-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a> 
+<a href="https://github.com/shahism">
+    <img src="https://img.shields.io/badge/Shahzaneer_Ahmed-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Sameem-Amjad">
+    <img src="https://img.shields.io/badge/Sameem_Amjad-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+ </div>
