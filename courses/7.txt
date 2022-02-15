@@ -1,0 +1,7 @@
+CSC441,Compiler Construction,3 (2 1),Mr. Salman Aslam
+CSC356,Computer Interaction,3 (2 1),Ms. Gulmina Rextina 
+HUM111,Pakistan Studies,3 (3 0),HYBRID
+EEE440,Computer Architecture,3 (3 0),Mr. Dilshad Sabir
+CSC350,Web Technologies,3 (3 0),Ms. Humaira Waqas
+CSC454,Pattern Recognition,3 (3 0),Mr. Bilal Aurangzaib
+CSC498,Senior Design Project I,2 (0 2),Dr. Sohail Asghar

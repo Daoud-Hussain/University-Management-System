@@ -1,0 +1,5 @@
+MTH231,Linear Algebra,3 (3 0),Ms. Fareeha Pervaiz
+MTH206,Statistics & Probability,3 (3 0),Mr. Abdul Wakeel
+CSC339,Data Communications,3 (2 1),Dr. Ashfaq Ahmed
+CSC336,Web Technologies,3 (2 1),Dr. Waseem Abbas
+CSC462,Artificial Intelligence,3 (2 1),Ms Shehla Saif
