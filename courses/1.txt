@@ -1,0 +1,6 @@
+HUM110,Islamic Studies,3 (3 0),HYBRID
+HUM100,English Composition,3 (3 0),Ms. Mehwish Mushtaq
+PHY121,Applied Physics,4 (3 1),Mr. Muhammad Moosa
+CSC101,ICT,3 (3 0),Mr. Umar Iqbal
+MTH101,Calculus - I,0 (0 0),Ms. Itrat Rubab
+MTH100,Mathematics I,0 (0 0),Ms. Itrat Rubab

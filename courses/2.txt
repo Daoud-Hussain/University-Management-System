@@ -1,0 +1,6 @@
+HUM102,RWS,3 (3 0),HYBRID
+EEE241,DLD,4 (3 1),Dr. Ahsan Khawaja
+MTH104,Calculus,3 (3 0),Dr. Muhammad Yousaf
+CSC102,DS,3 (3 0),Ms. Memoona Malik
+CSC110,PPIT,3 (3 0),Mr. Anwar Shoukat
+CSC103,PF,4 (3 1),Mr. Rizwan Rashid
