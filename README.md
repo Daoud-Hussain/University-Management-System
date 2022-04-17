@@ -49,7 +49,7 @@
  <a href="https://github.com/Daoud-Hussain">
     <img src="https://img.shields.io/badge/Daoud_Hussain-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
  </a> 
- <a href="https://github.com/shahism">
+ <a href="https://github.com/shahzaneer">
     <img src="https://img.shields.io/badge/Shahzaneer_Ahmed-000.svg?&style=for-the-badge&logo=github&logoColor=white" />
  </a>
  <a href="https://github.com/Sameem-Amjad">
