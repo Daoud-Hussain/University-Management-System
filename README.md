@@ -38,6 +38,16 @@
 - User Profile.
 - Delete and update registration.
 
+## Compilation
+
+- Open Command Prompt
+- Type: ``"javac Main.java"``
+
+## Runing
+
+- Open Command Prompt
+- Type: ``"java Main"``
+
 #
 <!--Developers Account!-->
 ## 👨‍💻 Developers 
